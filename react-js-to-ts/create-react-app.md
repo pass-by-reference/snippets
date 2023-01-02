@@ -3,7 +3,7 @@
 1. Install typescript and types for react
 - `npm install typescript @types/react --save-dev`
 
-2. Create tsconfig.json at root.
+2. Create `tsconfig.json` at root.
 - Below is a sample of compiler options for typescript
 
 ```
