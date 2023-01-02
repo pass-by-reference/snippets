@@ -59,3 +59,10 @@ module.exports = {
   ]
 }
 ```
+
+4. Convert your files. This also depends on your code.
+- Convert `.js` or `.jsx` extension to `.tsx`
+- Add types to your props and states
+- Download types for your react dependencies. This depends on your project. 
+
+You can find the list of types here: https://www.npmjs.com/~types

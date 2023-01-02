@@ -26,4 +26,4 @@
 - Add types to your props and states
 - Download types for your react dependencies. This depends on your project. 
 
-You can find some of them here: https://www.npmjs.com/~types
+You can find the list of types here: https://www.npmjs.com/~types
